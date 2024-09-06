@@ -36,5 +36,5 @@
 	/**
 	 * Include footer
 	 */
-	require_once('./component/footer/footer.php');//
+	require_once('./component/footer/footer.php');
  
