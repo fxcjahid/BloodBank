@@ -1,0 +1,14 @@
+{
+	"name": "fxcjahid/database-crud",
+	"authors": [
+		{
+			"name": "fxc jahid",
+			"email": "fxcjahid3@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Database\\": "src/"
+		}
+	}
+}
